@@ -1,0 +1,17 @@
+.cards {
+    background-color: rebeccapurple;
+    width: 441px;
+    height: 209px;
+    margin: 10px auto;
+    background-color: #e7f6f6;
+    float: left;
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 1rem;
+}
+
+* {
+    background-color: black;
+}
